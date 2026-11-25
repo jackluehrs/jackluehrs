@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Jack 👋
 
-<!--
-**jackluehrs/jackluehrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at **Penn State** (College of Engineering), interested in automation and building practical tools that save people time.
 
-Here are some ideas to get you started:
+### 🔨 Projects
+- **[VideoGameDealTracker](https://github.com/jackluehrs/VideoGameDealTracker)**: Python tool that checks multiple storefronts for deals on a wishlist of games.
+- **[internship-skills-review](https://github.com/jackluehrs/internship-skills-review)**: Compares internship postings against my skills to find gaps. Built by directing Claude Code.
+- **[Flag-Rush](https://github.com/jackluehrs/Flag-Rush)**: 2D maze game in Godot (GDScript): collect flags, avoid enemies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tools & languages
+Python · GDScript / Godot · Verilog · Git
+
+### 📫 Reach me
+📧 [jackluehrs@gmail.com](mailto:jackluehrs@gmail.com)
+
+*Currently looking for Summer 2027 internships.*
